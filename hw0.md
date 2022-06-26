@@ -3,7 +3,7 @@
 хотите). 
 3. Поставить себе git (https://git-scm.com/downloads). 
 4. Создать открытый для всех (или только меня) репозиторий.
-
+Result:
 1. done
 2. VS code
 3. git-bash
