@@ -1,6 +1,6 @@
 
 print("Enter a line:")
-line_origin = input()
+line_origin = input('-> ')
 words = line_origin.split()
 def get_unique(line):
     unique = []
