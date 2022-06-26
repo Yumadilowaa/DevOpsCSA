@@ -1,7 +1,7 @@
 print("Enter a line:")
 line_origin = input('-> ')
 count = {}
-for i in line_origin.split():
+for i in line_origin.lower().split():
     if i not in count:
         count[i] = 1
     else: 
